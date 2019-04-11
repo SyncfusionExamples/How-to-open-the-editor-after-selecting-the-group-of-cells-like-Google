@@ -1,0 +1,11 @@
+{
+  "extends": ["tslint-config-prettier"],
+  "linterOptions": {
+    "exclude": [
+      "config/**/*.js",
+      "e2e/**/*.ts",
+      "node_modules/**/*.d.ts",
+      "node_modules/**/*.ts"
+    ]
+  }
+}
