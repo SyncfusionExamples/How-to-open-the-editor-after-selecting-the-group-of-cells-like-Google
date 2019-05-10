@@ -4,7 +4,7 @@
   "description": "ej2 schedule react project",
   "private": true,
   "dependencies": {
-    "@syncfusion/ej2-react-schedule": "^0.111.1"
+    "@syncfusion/ej2-react-schedule": "*"
   },
   "devDependencies": {
     "@types/jasmine": "^2.5.54",
