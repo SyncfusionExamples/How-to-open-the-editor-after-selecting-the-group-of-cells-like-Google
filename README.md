@@ -1,6 +1,6 @@
 # EJ2 React
 
-> Customer reported bugs automation in React platform.
+> This sample demonstrate the way to open the editor window immediately after the selecting the group of cells like Google.
 
 ## Test Setup
 
